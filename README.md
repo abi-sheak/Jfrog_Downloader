@@ -18,8 +18,6 @@ https://github.com/abi-sheak/Jfrog_Downloader
 
 ## Usage
 
-<!-- To use the PySerial Robot Framework Library in your Robot Framework test suites, you need to import it at the beginning of your test suite file:
-
 ```python
 
 from JFROGDownloader import JFROGDownloader
